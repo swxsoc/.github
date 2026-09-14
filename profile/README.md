@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 Welcome to the NASA Space Weather Science Operations Center GitHub page.
+
+You can find a short presentation about us at https://swxsoc.github.io/swxsoc-presentation/
+
 Our official homepage can be found [https://swxsoc.github.io](https://swxsoc.github.io).
 
 We manage the following organizations on GitHub.
